@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="guessNum/guessNum.csproj" />
+  <Project Path="numeralogy/numeralogy.csproj" Id="42ed0a9c-8eaf-4005-9d9b-4cfd1df12fae" />
   <Project Path="one.replace/one.replace.csproj" />
   <Project Path="taxDecimal/taxDecimal.csproj" Id="30e908b4-19d6-46aa-b34d-ee76feabe042" />
   <Project Path="temperature/temperature.csproj" />
